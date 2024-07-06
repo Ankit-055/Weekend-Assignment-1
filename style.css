@@ -70,13 +70,13 @@
 {
     float : right;
     height: 500px;
-    width: 740px;
+    width: 540px;
 }
 .image2
 {
     float : left;
-    height :200px;
-    width : 400px;
+    height :500px;
+    width : 540px;
 }
 .text2
 {
@@ -85,6 +85,7 @@
     white-space : pre-line;
     word-spacing : 10px;
     text-align: right;
+    margin-top:0%;
 }
 .footer
 {
